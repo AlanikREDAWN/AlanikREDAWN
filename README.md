@@ -4,12 +4,11 @@
 **AlanikREDAWN/AlanikREDAWN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+---
 Hello everyone! You can call me Alanik! Of course, that's not my real name (I'd prefer to keep that a secret). I am totally new to GitHub and have no idea what any of these buttons do. (Though I really want to press them all for the fun of it 😅)
 
 - 🔭 I’m currently working on resisting the urge to press any and all the buttons on my screen 
 - 🌱 I’m currently learning anything and everything there is to learn (I am a SPONGE! 🧽)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about cats! I love cats! :octocat:
 - 📫 How to reach me: lilia.dostie@socprep.org
 - 😄 Pronouns: She/Her
