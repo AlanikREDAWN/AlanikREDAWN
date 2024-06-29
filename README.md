@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+Note: This readme is a bit outdated, I will update it when I get the chance...
 <!--
 **AlanikREDAWN/AlanikREDAWN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
