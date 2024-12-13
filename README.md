@@ -13,7 +13,6 @@ Hello everyone! You can call me Alanik! Of course, that's not my real name. Alan
 
 <!--- 🔭 I’m currently working on resisting the urge to press any and all the buttons on my screen  -->
 - 🌱 I’m currently learning anything and everything there is to learn (I am a SPONGE! 🧽)
-- 💬 Ask me about cats! I love cats! :octocat:
-- 📫 How to reach me: liliaskydostie@gmail.com
+- 💬 Ask me about cats! I love cats!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Did you know that every iPhone commercial has 9:41 set as the time? That's because that was the exact time Steve Jobs released the iPhone. Don't believe me? Look up a few iPhone commercials! 📱
